@@ -1,0 +1,95 @@
+@charset "utf-8";
+.uno{}
+.portada{
+    margin:10px;
+    background-color: grey;
+    height: 150px;
+    width: 96%;
+    margin-left: 2%;
+    margin-right: 2%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    }
+
+.header{
+    text-align: center;
+    font-size: 12px;
+    font-family:Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+    line-height: 15px; 
+    color: antiquewhite;
+    height: 60px;
+    margin:5px;
+    padding: 5px;
+    background-color: black;
+    width: 60%;
+    margin-right: 2%;
+    float: right
+        
+    }
+.grupo{
+    
+    height: 469px;
+    margin:5px;
+    background-color: grey;
+    width: 31%;
+    margin-left: 2%;
+    margin-right: 2%;
+    margin-bottom: 3%;
+    float: left;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    }
+
+
+#grupo{
+    background-image: url(../recursos/SOD/banda.jpg)
+}
+
+
+#portada{
+    
+    background-image: url(../recursos/SOD/system-of-a-down.jpg)
+        }
+
+.dos{}
+
+
+.box{
+    height: 180px;
+    float: right;
+    background-color: grey;
+    width: 29%;
+    margin-top: 5.9px;
+    margin-left: 1%;
+    margin-right: 2%;
+    margin-bottom: 2%;
+    
+    }
+.footer{
+    
+    background-color: black;
+    width: 1250px;
+    height: 40px;
+    clear: left;
+        }
+#uno{
+    
+        
+}
+
+#dos{
+   vertical-align: middle;
+    display: table-cell;
+        
+}
+#tres{
+    
+        
+}
+#cuatro{
+    
+        
+}
+
